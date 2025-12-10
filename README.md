@@ -1,14 +1,15 @@
-## Hi there 👋
+## Olá devs, bem-vindos ao meu perfil! 💻
 
-**Marcelo-TMs/Marcelo-TMs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Marcelo** e:
 
-Here are some ideas to get you started:
+- 🇧🇷 Sou um desenvolvedor brasileiro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔍 Sempre procuro aprender algo novo ou inovador.
+
+- 👥 Adoro trabalhar com diferentes pessoas.
+
+- 🙃 Sou um ótimo amigo e conselheiro.
+
+- 🎨 Criatividade eu tenho de sobra!
+
+- 🍷🗿 Nunca utilizarei esses dois emojis à esquerda juntos em nenhuma de minhas mensagens.
